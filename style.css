@@ -538,3 +538,11 @@ footer p{
 .project-links a:hover {
     background: #0056b3;
 }
+.project-card{
+    background:white;
+    padding:30px;
+    border-radius:12px;
+    box-shadow:0 5px 15px rgba(0,0,0,0.1);
+    transition:0.3s;
+    margin-bottom:30px;   /* <-- Add this line */
+}
